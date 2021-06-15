@@ -1,0 +1,7 @@
+C:\Users\Antoinette\source\repos\bmw_interview\bin\Debug\bmw_interview.exe.config
+C:\Users\Antoinette\source\repos\bmw_interview\bin\Debug\bmw_interview.exe
+C:\Users\Antoinette\source\repos\bmw_interview\bin\Debug\bmw_interview.pdb
+C:\Users\Antoinette\source\repos\bmw_interview\obj\Debug\bmw_interview.csprojAssemblyReference.cache
+C:\Users\Antoinette\source\repos\bmw_interview\obj\Debug\bmw_interview.csproj.CoreCompileInputs.cache
+C:\Users\Antoinette\source\repos\bmw_interview\obj\Debug\bmw_interview.exe
+C:\Users\Antoinette\source\repos\bmw_interview\obj\Debug\bmw_interview.pdb
