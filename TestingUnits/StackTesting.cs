@@ -19,7 +19,7 @@ namespace TestingUnits
             Console.SetIn(input);
 
             //When
-            int size = p.InputArraySize();
+            int size = p.InputArraySize(); 
 
             //Then
             Assert.AreEqual(3, size, "Size should be 3"); 
